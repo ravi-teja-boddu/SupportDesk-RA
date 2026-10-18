@@ -205,7 +205,7 @@ KEY TAKEAWAYS:
    Range: -1 to 1 (higher = more similar)
 
 3. SEMANTIC SEARCH finds meaning, not just keywords
-   "password reset" matches "forgot credentials"!
+   "password reset" matches "forgot credentials"! 
 
 4. THE SAME MODEL must be used for queries and documents.
    Different models = incompatible vector spaces
