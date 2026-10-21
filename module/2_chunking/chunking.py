@@ -63,7 +63,7 @@ print(f"\nLoaded {len(tickets)} support tickets")
 # PART 1: Chunking Strategies
 # ============================================================================
 # 
-# We'll demo 5 different chunking strategies:
+# Covers 5 different chunking strategies:
 # 1. Fixed-size: Split by character/token count (simple but may break sentences)
 # 2. Recursive: Try progressively smaller separators (best general-purpose)
 # 3. Semantic: Use embeddings to detect topic changes (expensive but best quality)
